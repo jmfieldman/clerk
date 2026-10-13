@@ -1,0 +1,8 @@
+{
+  "id": "clerk",
+  "name": "Clerk",
+  "description": "Status across every workspace, in the sidebar header.",
+  "requirements": {
+    "paseo": ">=0.11.2"
+  }
+}
